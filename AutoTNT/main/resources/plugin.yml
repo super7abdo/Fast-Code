@@ -1,0 +1,9 @@
+name: HEX
+version: ${project.version}
+main: me.superabdo.csm.Main
+authors: [superabdo]
+description: SuperAbdo Plugin
+
+commands:
+  tnt:
+    description: turn auto tnt on|off
